@@ -57,7 +57,7 @@
     <string name="auth_host_url">Server-Adresse https://…</string>
     <string name="auth_username">Benutzername</string>
     <string name="auth_password">Passwort</string>
-    <string name="auth_register">Ist %1$s neu für dich?</string>
+    <string name="auth_register">Du hast noch keinen Server?\\nKlicke hier um von einen Provider einen zu bekommen </string>
     <string name="sync_string_files">Dateien</string>
     <string name="setup_btn_connect">Verbinden</string>
     <string name="uploader_btn_upload_text">Hochladen</string>
@@ -129,7 +129,7 @@
     <string name="uploader_upload_failed_content_single">Hochladen von  %1$s konnte nicht abgeschlossen werden</string>
     <string name="uploader_upload_failed_credentials_error">Hochladen fehlgeschlagen, erneute Anmeldung erforderlich</string>
     <string name="uploads_view_title">Uploads</string>
-    <string name="uploads_view_group_current_uploads">Wird hochgeladen</string>
+    <string name="uploads_view_group_current_uploads">Aktuell</string>
     <string name="uploads_view_group_failed_uploads">Fehlgeschlagen (Tippen zum Wiederholen)</string>
     <string name="uploads_view_group_finished_uploads">Hochgeladen</string>
     <string name="uploads_view_upload_status_succeeded">Fertiggestellt</string>
